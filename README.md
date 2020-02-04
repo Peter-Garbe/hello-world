@@ -6,6 +6,4 @@ I develop with .net and js, html, css, ...
 
 Next Line
 
-Next Line
-
 i make a update in this line
